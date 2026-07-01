@@ -6,7 +6,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="125" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnNjaXFvMGNqcGg2bGNoN21qZzZoZGR0ZjFnZ3k4bjdtOW1wZGRocCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nBvri64uO4sX6/giphy.gif"  />
+<img data-importer="image" align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmhkZHE3aTRwdGM2bzdla3ZxYWQxMXFlZmNlM3Focnp4N3g1d3E2eCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nVjX2WMD9vzMs/giphy.gif"  />
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<div data-importer="stats" align="center">
+<div data-importer="stats" align="left">
   <img src="https://raw.githubusercontent.com/Ilhamard7/Ilhamard7/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/Ilhamard7/Ilhamard7/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
