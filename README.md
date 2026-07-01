@@ -6,7 +6,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhvenM4NHltc3Y3a3psbXp1d3RyZ3IzZmZyYWdtc290NWV6anNqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hld1RfHBeQDmM/giphy.gif"  />
+<img data-importer="image" align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnNjaXFvMGNqcGg2bGNoN21qZzZoZGR0ZjFnZ3k4bjdtOW1wZGRocCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nBvri64uO4sX6/giphy.gif"  />
 
 ###
 
@@ -34,15 +34,15 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Ilhamard7/Ilhamard7/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Ilhamard7/Ilhamard7/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Ilhamard7/Ilhamard7/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Ilhamard7/Ilhamard7/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<picture data-importer="pacman">
+<picture data-importer="pacman" align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ilhamard7/Ilhamard7/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ilhamard7/Ilhamard7/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ilhamard7/Ilhamard7/pacman-output/pacman-contribution-graph.svg?game=pacman">
